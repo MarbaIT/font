@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Supernova</title>
+    <link>https://www.raiplayradio.it/programmi/supernova/</link>
+    <language>it-it</language>
+    <description>Supernova - Storie e musica da altri mondi | Una navicella spaziale in volo tra galassie musicali oltre le barriere dello spazio-tempo. Due piloti in balìa del loro computer di bordo. Un viaggio alla continua ricerca di nuove destinazioni e civiltà sconosciute. Con Duccio Pasqua, Gaspare Bitetto e Luca Bernardini. | Scriveteci a supernova@rai.it</description>
+    <itunes:summary>Supernova - Storie e musica da altri mondi | Una navicella spaziale in volo tra galassie musicali oltre le barriere dello spazio-tempo. Due piloti in balìa del loro computer di bordo. Un viaggio alla continua ricerca di nuove destinazioni e civiltà sconosciute. Con Duccio Pasqua, Gaspare Bitetto e Luca Bernardini. | Scriveteci a supernova@rai.it</itunes:summary>
+    <itunes:author>Duccio Pasqua, Gaspare Bitetto, Luca Bernardini</itunes:author>
+    <itunes:image href="https://www.raiplayradio.it/cropgd/352x352/dl/img/2020/02/12/1581513718229_supernova%20-%20config%20prog%202048x2048.png"/>
+    <itunes:owner>
+      <itunes:name>Rai Radio</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Podcast"/>
+    <item>
+      <title>S01E42 - I Colori del Camaleonte</title>
+      <description>Nell'elusiva Costellazione del Camaleonte si nasconde il più grande Giardino Zoologico dell'Universo, ma solo alle persone più degne viene concessa la possibilità di visitarlo. L'equipaggio della Supernova sarà abbastanza degno per entrare a conoscere animali intergalattici come Il Crioceto, il Pintotto di Paul Branigade, gli Squallidi o i Camburi?</description>
+      <pubDate>Sun, 31 May 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-2838541c-06ae-4e35-8c91-e530c7840794</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=YPNeD6o7xBrvDvwvOIeenweeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/05/27/1590580292539_camaleonte%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E50 - La Vendetta dei Nova</title>
+      <description>A Bordo della Supernova arriva un &quot;ospite&quot; inaspettato: si tratta di Emilio Nova, uno dei boss della Nova Enterprises, in cerca di vendetta contro l'intero Universo. Riusciranno i nostri eroi a scoprire finalmente il significato della loro missione e a fermare le trame nefaste di questo oscuro signore?</description>
+      <pubDate>Sun, 28 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-d638f9ff-ad1c-471a-9f7d-51b4c73066fa</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xtc5540b6nQCMqJ3sKTUZQeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/26/1593170710188_light_in_the_dark_tunnel_hope_christian_faith-1169066%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E48 - Nella Tela del Ragno</title>
+      <description>I segnali captati all'interno delle Nubi di Magellano hanno condotto la Supernova di fronte alla Nebulosa Tarantola: un luogo dello spazio-tempo in cui sembra essersi radunata minacciosa l'intera flotta della Nova Enterprises.</description>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-f1a2bb8c-f82f-4e60-b91c-e4a1d4d20da1</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=hwY9NXstEzaHsa5RCOe9AQeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/15/1592220691313_A_New_View_of_the_Tarantula_Nebula%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title> S01E20 - In Perfetto Equilibrio</title>
+      <description>L'equipaggio della Supernova raggiunge il giro di boa del suo tour nello Zodiaco: la Costellazione della Bilancia. Tra stelle dai nomi impronunciabili e la scoperta di una nuovissima Sala Cinema all'interno dell'astronave, i nostri eroi si ritroveranno a fare i conti col proprio equilibrio alla ricerca dell'illuminazione.</description>
+      <pubDate>Sun, 15 Mar 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-1a97c807-f4db-4b62-9a3a-2698398921ee</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=U7tApPpPlussPPAHxq31PzVJGxv7AeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/03/10/1583852370700_libra%20Cropped.jfif"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E46 - Polaris</title>
+      <description>L'equipaggio della Supernova raggiunge una nuova tappa della propria missione: il Sistema Stellare Polaris, in cui la Stella Polaris potrebbe indicargli la giusta direzione da seguire, così come per secoli ha fatto con generazioni di navigatori. Cosa troveranno ad aspettarli?</description>
+      <pubDate>Sun, 14 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-f8a624ad-7e31-4f8d-9bad-f40522225104</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=rssSlashfqv8HfOKOUh2NWvYJJRAeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/09/1591701490429_Alfa_Ursae_Minoris%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E18 - Hic Sunt Leones</title>
+      <description>Il ruggente equipaggio della Supernova si ritrova al cospetto della Costellazione del Leone, ma bisognerà fare piano, perché il Leone si è addormentato e sarà meglio non svegliarlo. Riuscirci sarà una fatica pari almeno a quelle di Ercole. Forse la quiete del nuovo giardino idroponico dell'astronave sarà la giusta soluzione per raggiungere l'obiettivo.</description>
+      <pubDate>Sun, 08 Mar 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-8cef98e5-0c2b-409e-9cc9-ae4920d78cc7</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qS31v5JZeOJkYEssSlashEDfzktweeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/02/27/1582813008821_leone%20Cropped%201.png"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E44 - Il Guardiano dell&amp;#39;Orsa</title>
+      <description>Dopo aver ricevuto nuovi segnali intergalattici, la Supernova si appresta ad affrontare la missione indicata dalla Porta Rossa. Il primo ostacolo da superare sarà l'indovinello della gigantesca stella Arturo, a guardia delle Costellazioni dell'Orsa. Riusciranno i nostri eroi a compiere questa incredibile impresa?</description>
+      <pubDate>Sun, 07 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-63dfa4b1-4045-4383-8d90-e6c1f83d1eac</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Ea3usSFyi5lfEq4g2b4w4QeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/02/1591086094384_arturo%20Cropped%201.png"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E52 - La Porta Rossa</title>
+      <description>All'equipaggio della Supernova resta un'unica soluzione possibile per riuscire a tornare a casa: creare un Ponte di Einstein-Rosen tra due Universi e poi attraversarlo. Come fare? Allacciate le cinture e preparatevi: ogni domanda troverà risposta in questa ultima ed entusiasmante puntata di Supernova!</description>
+      <pubDate>Sun, 05 Jul 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-60cc90dd-2cf8-4b07-8199-62e9b06f9f5a</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xWKoz5vBssSlashNA5J4XALKPglAeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/07/02/1593689274898_9w4m91k1yax11%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E41 - Le Ali del Cigno</title>
+      <description>L'equipaggio della Supernova parte per un viaggio alla volta di Kepler-1649 c, nella Costellazione del Cigno: un esopianeta famoso per essere &quot;Il pianeta più simile alla Terra mai osservato&quot;. Ma sarà veramente così?</description>
+      <pubDate>Sat, 30 May 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-b45e5920-862d-4b65-871d-dbbcc4afe5b9</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Lj0zJMwkZtokVqOVkfpPpPlussmAAeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/05/27/1590579853255_cygnus%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E49 - La Sfera di Dyson</title>
+      <description>Inseguendo l'asteroide Zappa Frank, la Supernova si ritrova di fronte a R136a1, la stella più massiccia e luminosa dell'Universo, attorno alla quale la Nova Enterprises sta costruendo una Sfera di Dyson. Quale sarà il loro obiettivo?</description>
+      <pubDate>Sat, 27 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-67cf4b04-ec3e-4cbe-af32-d42e6a3da872</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=2VAZJlAacwvyDyQST2ssSlashSSgeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/26/1593170130243_A_Dyson_Swarm_Superstructure_21983905140%20Cropped%201.png"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E47 - Le Nubi di Magellano</title>
+      <description>Seguendo le indicazioni del disco metallico di Polaris, la Supernova attiva la velocità smodata in direzione delle Nubi di Magellano. La Porta Rossa sembra indicare che la via è quella giusta, ma il mistero sulla missione dei nostri eroi si infittisce.</description>
+      <pubDate>Sat, 20 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-35fb3f5d-71ff-41a3-ba28-d8a92d2b3d4b</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BPkN88cP6CvS6EIssSlashhR5UngeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/15/1592219932136_Starbridge%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title> S01E19 - Un Mercato Extra-Vergine</title>
+      <description>La Costellazione della Vergine è una delle costellazioni più grandi della volta celeste, ma in pochi sanno che ospita anche il più grande mercato dell'intero Universo. L'equipaggio della Supernova lo esplorerà tutto, in un viaggio extra-long e super-size, alla ricerca di musica da altri mondi.</description>
+      <pubDate>Sat, 14 Mar 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-c26b82c8-e0b8-4f26-8111-97a83ccee5cf</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=umgd0SledUnqIOTDlJnOHweeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/03/10/1583852034350_m104sombrero-big%20Cropped.jfif"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E45 - L&amp;#39;Orsa Maggiore</title>
+      <description>Dopo aver risolto l'indovinello della Stella Arturo a guardia delle Costellazioni dell'Orsa, l'equipaggio della Supernova si dirige verso l'Orsa Maggiore, dove troverà nuove indicazioni per svelare il mistero che avvolge la propria missione.</description>
+      <pubDate>Sat, 13 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-60507b25-a3cd-441d-b9a7-f2b1993620ea</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=HT1evJDssSlashuNg0cz561UHWhAeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/09/1591700655545_Ursa-Major%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E17 - Chele di Granchio</title>
+      <description>&quot;L'oceano dello spazio-tempo&quot; sembra solo un modo di dire, fin quando non ti ritrovi la plancia dell'astronave su cui stai viaggiando completamente allagata. Giunti alla Costellazione del Cancro (segno d'acqua, forse anche troppa), l'equipaggio della Supernova si ritroverà ad affrontare un'esperienza subacquea del tutto inaspettata.</description>
+      <pubDate>Sat, 07 Mar 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-87cffcd0-f37a-4f28-8db2-66d44de04212</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=EvkssSlashLvKN6HEUwT4RIyabbgeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/02/27/1582812855257_cancro%20Cropped.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E43 - L&amp;#39;Occhio del Diavolo</title>
+      <description>La Porta Rossa a bordo della Supernova ha iniziato a emettere misteriosi segnali e a indicare coordinate spazio-temporali sconosciute. I nostri eroi si troveranno di fronte alla Galassia Occhio del Diavolo, dove tutto ruota al contrario. Quali messaggi subliminali li attenderanno?</description>
+      <pubDate>Sat, 06 Jun 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-5760a42b-a03d-4bc6-a12a-df7900e2d627</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Mx8LXboE3JrsxzJq2yfBcgeeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/02/1591085837409_occhiodeldiavolo%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>S01E51 - Il Nuovo Big Bang</title>
+      <description>Il piano di Emilio Nova per creare un nuovo Universo sembra essere riuscito. L'equipaggio della Supernova si trova così in nuovissime e sconosciute regioni dello Spazio-Tempo, senza sapere se riuscirà mai a tornare a casa. Rimane un'ultima speranza, però: la Porta Rossa.</description>
+      <pubDate>Sat, 04 Jul 2020 12:00:00 GMT</pubDate>
+      <guid>ContentItem-e7912657-81c0-4a25-97cb-4d992e167ee5</guid>
+      <enclosure url="http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=o3bLcjpWMRH72frHVnENPweeqqEEqualeeqqEEqual" type="audio/mpeg" length="0"/>
+      <itunes:image href="/cropgd/400x400/dl/img/2020/06/26/1593171104816_una-nuova-teoria-cerca-spiegare-come-acceso-big-bang-v3-409166%20Cropped%201.jpg"/>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
