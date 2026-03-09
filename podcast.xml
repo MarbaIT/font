@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Supernova</title>
+    <link>https://www.raiplayradio.it</link>
+    <language>it-it</language>
+    <description>Supernova - Storie e musica da altri mondi | Una navicella spaziale in volo tra galassie musicali oltre le barriere dello spazio-tempo. Due piloti in balìa del loro computer di bordo. Un viaggio alla continua ricerca di nuove destinazioni e civiltà sconosciute. Con Duccio Pasqua, Gaspare Bitetto e Luca Bernardini. | Scriveteci a supernova@rai.it</description>
+    <itunes:author>Duccio Pasqua, Gaspare Bitetto, Luca Bernardini</itunes:author>
+    <itunes:summary>Supernova - Storie e musica da altri mondi | Una navicella spaziale in volo tra galassie musicali oltre le barriere dello spazio-tempo. Due piloti in balìa del loro computer di bordo. Un viaggio alla continua ricerca di nuove destinazioni e civiltà sconosciute. Con Duccio Pasqua, Gaspare Bitetto e Luca Bernardini. | Scriveteci a supernova@rai.it</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Rai Radio</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.raiplayradio.it/cropgd/352x352/dl/img/2020/02/12/1581513718229_supernova%20-%20config%20prog%202048x2048.png"/>
+    <itunes:category text="Music"/>
+    <item>
+      <title>Episodio di esempio</title>
+      <description>Episodio generato automaticamente</description>
+      <pubDate>Mon, 09 Mar 2026 14:58:36 GMT</pubDate>
+      <enclosure url="https://example.com/audio.mp3" type="audio/mpeg" length="12345"/>
+      <guid>example-episode-1</guid>
+      <itunes:duration>10:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
